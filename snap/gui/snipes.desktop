@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Snipes
+Exec=snipes
+Comment=The classic 1982 text-mode game Snipes
+Icon=${SNAP}/meta/gui/snipes.png
+Type=Application
+Terminal=false
+StartupNotify=false
+Categories=Game;
